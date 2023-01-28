@@ -23,7 +23,7 @@ const Layout = ({ children, title = 'This is the default title' }: Props) => (
     {children}
     <footer>
       <hr />
-      <span>ポケファーム</span>
+      <span>ポケストーリー</span>
     </footer>
   </div>
 )
