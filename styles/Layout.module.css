@@ -1,0 +1,23 @@
+.main {
+    background-color: #EEEEEE;
+    font-weight: bolder;
+    padding: 20px;
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+    height: 600px;
+    background-image: url("../public/akichi.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position:center;
+    user-select: none;
+    pointer-events: none;
+}
+
+.pokemonStyle {
+    position: relative;
+    top: 150px;
+    left: 0px;
+}
